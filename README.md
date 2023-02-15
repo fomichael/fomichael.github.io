@@ -1,3 +1,3 @@
 # testingproject
 
-Ceci est un test2
+Ceci est un test
